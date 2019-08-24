@@ -2214,3 +2214,18 @@ footer {
 .fa:hover {
     opacity: 0.7;
 }
+
+table,
+td,
+th {
+    border: 1px solid white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
